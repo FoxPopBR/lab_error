@@ -157,7 +157,6 @@ The `CustomLogger` class uses Python's `logging` module and `RotatingFileHandler
 
 ## Contribution
 
-Contributions are welcome! If you have ideas for new features or find any issues, feel free to create a pull request or open an issue.
 
 ---
 
