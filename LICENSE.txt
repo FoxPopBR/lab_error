@@ -1,0 +1,20 @@
+MIT License
+
+Copyright (c) 2024 FoxPop
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including but not limited to the rights to use, copy, modify, merge, publish, distribute, and sublicense the Software, provided that the following conditions are met:
+
+Conditions of Use
+Use in Commercial Projects:
+
+The Software may be used as part of other commercial projects or products, provided that it is not sold alone.
+No Direct Commercialization:
+
+You may not sell, sublicense, or distribute the Software alone as a separate product or service.
+Marketing the Software as a library, package, or any direct derivative form that replaces the original value of the Software is strictly prohibited.
+Retention of Credit:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+Any public or commercial use of the Software must explicitly give credit to "FoxPopBR" as the original author of the Software. This credit must appear in documentation, about pages, or any other public-facing material referencing the Software.
+Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
