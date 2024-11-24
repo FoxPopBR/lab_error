@@ -29,7 +29,7 @@ Whether you're building small scripts or large-scale applications, **CustomLogge
 Clone or download the repository and integrate the `CustomLogger` class into your project. No additional dependencies are required beyond Python's standard library.
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/FoxPopBR/lab_error.git
 ```
 
 ---
